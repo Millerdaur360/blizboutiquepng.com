@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BLIZ BOUTIQUE PNG</title>
+    
+        <body background ="BLIZ BOUTIQUE PNG Background.png">
+    <style>
+        .logo {
+             width: 3px;
+             height: 1px;
+           }
+
+    </style>
+
+      <head>
+        <body>
+          
+        <img src="bliz new logo.png/" src="" alt="">
+
+        </body>
+
+    </header>
+
+    <style>
+
+
+        /* CSS styles for your website */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ff1493;
+        }
+          
+         header {
+            background-color: #fF1493;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+         header
+        }
+        
+        nav {
+            background-color: #505;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        
+        main {
+            padding: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        
+        .product {
+            width: 300px;
+            border: 1px solid #ccc;
+            margin: 10px;
+            padding: 10px;
+            background-color: #fff;
+            text-align: center;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        
+        .product img {
+            width: 200px;
+            height: 200px;
+            margin-bottom: 10px;
+        }
+        
+        .product h3 {
+            margin: 0;
+            font-size: 20px;
+        }
+        
+        .product p {
+            color: #777;
+        }
+        
+        .product button {
+            background-color: #558;
+            color: #fff;
+            border: none;
+            padding: 8px 16px;
+            margin-top: 10px;
+            cursor: pointer;
+        }
+        
+        footer {
+            background-color: #;
+            color: #ffg;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WELCOME TO BLIZ BOUTIQUE PNG</h1>
+    </header>
+
+    
+
+    <nav>
+        <a href="#"></a>
+        <a href="#">PRODUCTS</a>
+        <a href="#">ABOUT US</a>
+        <a href="#">CUSTOMER SERVICE</a>
+        <a href="#">CONTACT US</a>
+    </nav>
+    
+    <main>
+        <div class="product">
+            <img src="product1.jpg" alt="Sun Flower Mug">
+            <h3>MUGS</h3>
+            <p>Description of Mug.</p>
+            <p>Price: K19.99</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="product2.jpg" alt="Polyester T-Shirt">
+            <h3>T-SHIRT</h3>
+            <p>Description of T-Shirt.</p>
+            <p>Price: K24.99</p>
+            <button>Add to Cart</button>
+        </div>
+                <div class="product">
+            <img src="product2.jpg" alt="Polyester T-Shirt">
+            <h3>T-SHIRT</h3>
+            <p>Description of T-Shirt.</p>
+            <p>Price: K24.99</p>
+            <button>Add to Cart</button>
+        </div>
+                <div class="product">
+            <img src="product2.jpg" alt="Polyester T-Shirt">
+            <h3>T-SHIRT</h3>
+            <p>Description of T-Shirt.</p>
+            <p>Price: K24.99</p>
+            <button>Add to Cart</button>
+        </div>
+                <div class="product">
+            <img src="product2.jpg" alt="Polyester T-Shirt">
+            <h3>T-SHIRT</h3>
+            <p>Description of T-Shirt.</p>
+            <p>Price: K24.99</p>
+            <button>Add to Cart</button>
+        </div>
+                <div class="product">
+            <img src="product2.jpg" alt="Polyester T-Shirt">
+            <h3>T-SHIRT</h3>
+            <p>Description of T-Shirt.</p>
+            <p>Price: K24.99</p>
+            <button>Add to Cart</button>
+        </div>
+    </main>
+    
+    <footer>
+        <p>&copy; 2023 Bliz Boutique PNG. All rights reserved.</p>
+    </footer>
+</body>
+</html>
